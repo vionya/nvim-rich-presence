@@ -5,7 +5,7 @@ A NeoVim plugin for generating Discord Rich Presences, and written in Rust.
 ### Installation
 **Vundle**
 ```vim
-Plugin 'sardonicism-04/nvimsence.rs'
+Plugin 'sardonicism-04/nvim-rich-presence'
 ```
 
 This installs the vimscript requirements. The bulk of the plugin is within the Rust binary.
@@ -52,4 +52,4 @@ let g:nvimsence_show_buttons = 1
 ```
 
 Notes:
-* `nvimsence.rs` is currently a WIP project
+* This is currently a WIP project
